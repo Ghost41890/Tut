@@ -1,6 +1,6 @@
 #include<iostream>
 using namespace std;
-//ok
+//ok nice
 int main()
 {
    int num1,num2; 
